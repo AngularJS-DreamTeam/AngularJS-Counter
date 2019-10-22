@@ -5,5 +5,5 @@ angular
 
     this.increment = () => { this.number += 1 }
     this.decrement = () => { this.number -= 1 }
+    this.reset = () => { this.number = 0 }
   });
-  
