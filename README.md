@@ -5,7 +5,7 @@
 ### Author: Ariana, Jonny, Pratiibh, Jeremy
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/AngularJS-DreamTeam/AngularJS-Counter/pull/6)
 
 * [front-end](https://dreamy-shockley-a641ef.netlify.com/) (when applicable)
 
